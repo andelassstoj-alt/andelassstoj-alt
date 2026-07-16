@@ -1,16 +1,67 @@
-## Hi there 👋
+Hi, I'm Anđela 👋
 
-<!--
-**andelassstoj-alt/andelassstoj-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Management Engineering Student
 
-Here are some ideas to get you started:
+Business Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Project Management
+
+Business Intelligence
+
+Python
+
+Power BI
+
+----------
+
+What I'm currently building
+
+📊 Logistics Optimization
+
+📈 Business Intelligence Dashboards
+
+🚚 Supply Chain Analytics
+
+📦 Operations Improvement
+
+📋 Project Management
+
+----------
+
+Technologies
+
+Python
+
+Power BI
+
+SQL (Learning)
+
+Git
+
+Excel
+
+Linux
+
+Networking
+
+----------
+
+Certifications
+
+Google Project Management
+
+Microsoft Power BI
+
+Cisco Networking
+
+Cisco Cybersecurity
+
+Linux Essentials
+
+----------
+
+Connect with me
+
+LinkedIn https://www.linkedin.com/in/andela-stojanovic/
+
+Portfolio (future)
